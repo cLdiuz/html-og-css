@@ -50,6 +50,7 @@ article{
     width: 100%;
     margin: 1rem auto;
     background-color:#fff;  
+    
 }
 
 main section article img{
@@ -105,4 +106,28 @@ margin: 0.5rem;
 #subscribe form label, #subscribe form input{
     display:block;
     margin: 1rem auto;
+}
+footer nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}   
+footer nav ul a{
+padding: 0.5rem;
+}
+#social-icons{
+    padding: 0;
+    margin: 1rem 0;
+    text-align: center;
+}
+#social-icons li {
+    display: inline-block;
+    background-color: #000;
+    color:#FFF;
+    width: 50px;
+    height: 50px;
+    padding: 1 rem;
+    border-radius: 50%;
+    
 }
